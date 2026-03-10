@@ -2,11 +2,11 @@
 
 echo "Installing Shadow Terminal..."
 
-cp shadow_terminal.sh ~/.shadow_terminal.sh
+cp shadow5hell.sh ~/.shadow5hell.sh
 
 echo "" >> ~/.bashrc
 echo "# Shadow Terminal Logger" >> ~/.bashrc
-echo "source ~/.shadow_terminal.sh" >> ~/.bashrc
+echo "source ~/.shadow5hell.sh" >> ~/.bashrc
 
 echo "Installation complete!"
 echo "Restart terminal to activate."
