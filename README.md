@@ -2,9 +2,9 @@
 
 ![shadow5hell](https://github.com/user-attachments/assets/61942a26-1423-4832-88ca-a89ac6e3ac51)
 
-Shadow5hell is a lightweight Bash-based terminal monitoring tool that records every command executed in a Linux terminal session along with its output. The collected logs are automatically stored and compressed into a password-protected archive when the terminal session ends.
+`Shadow5hell` is a lightweight Bash-based terminal monitoring tool that records every command executed in a Linux terminal session along with its output.
 
-This project demonstrates how Bash shell features such as command history, traps, and output redirection can be used to create a simple command auditing system.
+The collected logs are automatically stored and compressed into a password-protected archive when the terminal session ends.
 
 # 1. Introduction
 
