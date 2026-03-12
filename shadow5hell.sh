@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Ask user if Shadow Terminal should run
 read -p "Enable Shadow Terminal? (y/n): " SHADOW_CHOICE
@@ -58,3 +57,4 @@ compress_log() {
 trap compress_log EXIT
 
 fi
+
