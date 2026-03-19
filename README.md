@@ -1,6 +1,6 @@
 # Shadow5hell
 <p align="center">
-<img width="471" height="324" alt="Image" src="https://github.com/user-attachments/assets/9ff04501-638c-43e4-ad9b-267b16aa9dc3" />
+<img width="371" height="254" alt="Image" src="https://github.com/user-attachments/assets/9ff04501-638c-43e4-ad9b-267b16aa9dc3" />
 </p>
 
 `Shadow5hell` is a lightweight Bash-based terminal monitoring tool that records every command executed in a Linux terminal session along with its output.
